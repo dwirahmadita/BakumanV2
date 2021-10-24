@@ -28,7 +28,7 @@
         android:layout_marginStart="16dp"
         android:layout_marginTop="16dp"
         android:maxLines="4"
-        android:text="INI DESKRIPSI ANIME"/>
+        android:text="DETAIL DESKRIPSI ANIME"/>
 
 
 
